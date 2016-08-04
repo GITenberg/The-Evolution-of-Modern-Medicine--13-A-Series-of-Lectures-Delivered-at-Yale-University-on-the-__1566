@@ -1,0 +1,30 @@
+_repo: The-Evolution-of-Modern-Medicine--13-A-Series-of-Lectures-Delivered-at-Yale-University-on-the-__1566
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Osler, William
+    birthdate: 1849
+    deathdate: 1919
+    gutenberg_agent_id: '660'
+    url: http://www.gutenberg.org/2009/agents/660
+    wikipedia: http://en.wikipedia.org/wiki/William_Osler
+description: ''
+gutenberg_bookshelf: Medicine
+gutenberg_issued: '2006-02-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1566'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'R'
+- !lcsh 'Medicine -- History'
+- GITenberg
+tableOfContents: Origin of medicine -- Greek medicine -- Mediaeval medicine -- The
+  Renaissance and the rise of anatomy and physiology -- The rise and development of
+  modern medicine -- The rise of preventive medicine.
+title: "The Evolution of Modern Medicine\r\nA Series of Lectures Delivered at Yale\
+  \ University on the Silliman Foundation in April, 1913"
+url: http://www.gutenberg.org/ebooks/1566
